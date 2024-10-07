@@ -1,0 +1,521 @@
+2024-08-12 12:47:09,216 - __main__ - INFO - Logo loaded successfully.
+2024-08-12 12:47:46,182 - __main__ - INFO - Logo loaded successfully.
+2024-08-12 12:47:46,197 - __main__ - INFO - UI created successfully.
+2024-08-12 12:48:05,246 - __main__ - INFO - Started capturing screenshots.
+2024-08-12 12:48:05,407 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_124805.jpg
+2024-08-12 12:48:35,563 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_124835.jpg
+2024-08-12 12:49:05,711 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_124905.jpg
+2024-08-12 12:49:35,869 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_124935.jpg
+2024-08-12 12:50:06,021 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125005.jpg
+2024-08-12 12:50:36,163 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125036.jpg
+2024-08-12 12:51:06,336 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125106.jpg
+2024-08-12 12:51:36,486 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125136.jpg
+2024-08-12 12:52:06,633 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125206.jpg
+2024-08-12 12:52:36,772 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125236.jpg
+2024-08-12 12:53:06,915 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125306.jpg
+2024-08-12 12:53:37,070 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125337.jpg
+2024-08-12 12:54:07,214 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125407.jpg
+2024-08-12 12:54:37,364 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125437.jpg
+2024-08-12 12:55:07,505 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125507.jpg
+2024-08-12 12:55:37,671 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125537.jpg
+2024-08-12 12:56:07,829 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125607.jpg
+2024-08-12 12:56:37,998 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125637.jpg
+2024-08-12 12:57:08,135 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125708.jpg
+2024-08-12 12:57:38,281 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125738.jpg
+2024-08-12 12:58:08,437 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125808.jpg
+2024-08-12 12:58:38,592 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125838.jpg
+2024-08-12 12:59:08,767 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125908.jpg
+2024-08-12 12:59:38,926 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_125938.jpg
+2024-08-12 13:00:09,074 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130009.jpg
+2024-08-12 13:00:39,230 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130039.jpg
+2024-08-12 13:01:09,378 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130109.jpg
+2024-08-12 13:01:39,530 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130139.jpg
+2024-08-12 13:02:09,688 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130209.jpg
+2024-08-12 13:02:39,848 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130239.jpg
+2024-08-12 13:03:09,997 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130309.jpg
+2024-08-12 13:03:40,162 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130340.jpg
+2024-08-12 13:04:10,319 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130410.jpg
+2024-08-12 13:04:40,465 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130440.jpg
+2024-08-12 13:05:10,620 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130510.jpg
+2024-08-12 13:05:40,753 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130540.jpg
+2024-08-12 13:06:10,895 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130610.jpg
+2024-08-12 13:06:41,047 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130640.jpg
+2024-08-12 13:07:11,204 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130711.jpg
+2024-08-12 13:07:41,345 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130741.jpg
+2024-08-12 13:08:11,492 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130811.jpg
+2024-08-12 13:08:41,623 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130841.jpg
+2024-08-12 13:09:11,755 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130911.jpg
+2024-08-12 13:09:41,897 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_130941.jpg
+2024-08-12 13:10:12,044 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131012.jpg
+2024-08-12 13:10:42,195 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131042.jpg
+2024-08-12 13:11:12,341 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131112.jpg
+2024-08-12 13:11:42,487 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131142.jpg
+2024-08-12 13:12:12,638 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131212.jpg
+2024-08-12 13:12:42,791 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131242.jpg
+2024-08-12 13:13:12,958 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131312.jpg
+2024-08-12 13:13:43,139 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131343.jpg
+2024-08-12 13:14:13,278 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131413.jpg
+2024-08-12 13:14:43,404 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131443.jpg
+2024-08-12 13:15:13,534 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131513.jpg
+2024-08-12 13:15:43,672 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131543.jpg
+2024-08-12 13:16:13,832 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131613.jpg
+2024-08-12 13:16:44,007 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131643.jpg
+2024-08-12 13:17:14,146 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131714.jpg
+2024-08-12 13:17:44,284 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131744.jpg
+2024-08-12 13:18:14,444 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131814.jpg
+2024-08-12 13:18:44,572 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131844.jpg
+2024-08-12 13:19:14,728 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131914.jpg
+2024-08-12 13:19:44,918 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_131944.jpg
+2024-08-12 13:20:15,059 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132014.jpg
+2024-08-12 13:20:45,208 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132045.jpg
+2024-08-12 13:21:15,353 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132115.jpg
+2024-08-12 13:21:45,486 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132145.jpg
+2024-08-12 13:22:15,623 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132215.jpg
+2024-08-12 13:22:45,756 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132245.jpg
+2024-08-12 13:23:15,911 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132315.jpg
+2024-08-12 13:23:46,066 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132346.jpg
+2024-08-12 13:24:16,208 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132416.jpg
+2024-08-12 13:24:46,388 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132446.jpg
+2024-08-12 13:25:16,534 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132516.jpg
+2024-08-12 13:25:46,669 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132546.jpg
+2024-08-12 13:26:16,758 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132616.jpg
+2024-08-12 13:26:46,831 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132646.jpg
+2024-08-12 13:27:16,899 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132716.jpg
+2024-08-12 13:27:46,967 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132746.jpg
+2024-08-12 13:28:17,040 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132817.jpg
+2024-08-12 13:28:47,120 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132847.jpg
+2024-08-12 13:29:17,244 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132917.jpg
+2024-08-12 13:29:47,297 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_132947.jpg
+2024-08-12 13:30:17,346 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133017.jpg
+2024-08-12 13:30:47,392 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133047.jpg
+2024-08-12 13:31:17,446 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133117.jpg
+2024-08-12 13:31:47,533 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133147.jpg
+2024-08-12 13:32:17,601 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133217.jpg
+2024-08-12 13:32:47,666 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133247.jpg
+2024-08-12 13:33:17,745 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133317.jpg
+2024-08-12 13:33:47,823 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133347.jpg
+2024-08-12 13:34:17,892 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133417.jpg
+2024-08-12 13:34:47,966 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133447.jpg
+2024-08-12 13:35:18,036 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133518.jpg
+2024-08-12 13:35:48,118 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133548.jpg
+2024-08-12 13:36:18,187 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133618.jpg
+2024-08-12 13:36:48,267 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133648.jpg
+2024-08-12 13:37:18,342 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133718.jpg
+2024-08-12 13:37:48,423 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133748.jpg
+2024-08-12 13:38:18,475 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133818.jpg
+2024-08-12 13:38:48,541 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133848.jpg
+2024-08-12 13:39:18,588 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133918.jpg
+2024-08-12 13:39:48,640 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_133948.jpg
+2024-08-12 13:40:18,691 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134018.jpg
+2024-08-12 13:40:48,740 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134048.jpg
+2024-08-12 13:41:18,796 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134118.jpg
+2024-08-12 13:41:48,846 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134148.jpg
+2024-08-12 13:42:18,895 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134218.jpg
+2024-08-12 13:42:48,943 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134248.jpg
+2024-08-12 13:43:19,040 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134319.jpg
+2024-08-12 13:43:49,162 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134349.jpg
+2024-08-12 13:44:19,255 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134419.jpg
+2024-08-12 13:44:49,344 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134449.jpg
+2024-08-12 13:45:19,429 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134519.jpg
+2024-08-12 13:45:49,520 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134549.jpg
+2024-08-12 13:46:19,613 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134619.jpg
+2024-08-12 13:46:49,671 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134649.jpg
+2024-08-12 13:47:19,720 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134719.jpg
+2024-08-12 13:47:49,774 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134749.jpg
+2024-08-12 13:48:19,845 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134819.jpg
+2024-08-12 13:48:49,939 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134849.jpg
+2024-08-12 13:49:20,012 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134919.jpg
+2024-08-12 13:49:50,076 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_134950.jpg
+2024-08-12 13:50:20,160 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135020.jpg
+2024-08-12 13:50:50,230 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135050.jpg
+2024-08-12 13:51:20,295 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135120.jpg
+2024-08-12 13:51:50,367 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135150.jpg
+2024-08-12 13:52:20,435 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135220.jpg
+2024-08-12 13:52:50,520 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135250.jpg
+2024-08-12 13:53:20,586 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135320.jpg
+2024-08-12 13:53:50,652 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135350.jpg
+2024-08-12 13:54:20,721 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135420.jpg
+2024-08-12 13:54:50,792 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135450.jpg
+2024-08-12 13:55:20,883 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135520.jpg
+2024-08-12 13:55:50,959 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135550.jpg
+2024-08-12 13:56:21,044 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135621.jpg
+2024-08-12 13:56:51,129 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135651.jpg
+2024-08-12 13:57:21,211 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135721.jpg
+2024-08-12 13:57:51,296 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135751.jpg
+2024-08-12 13:58:21,361 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135821.jpg
+2024-08-12 13:58:51,401 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135851.jpg
+2024-08-12 13:59:21,451 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135921.jpg
+2024-08-12 13:59:51,504 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_135951.jpg
+2024-08-12 14:00:21,552 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140021.jpg
+2024-08-12 14:00:51,603 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140051.jpg
+2024-08-12 14:01:21,683 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140121.jpg
+2024-08-12 14:01:51,750 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140151.jpg
+2024-08-12 14:02:21,816 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140221.jpg
+2024-08-12 14:02:51,887 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140251.jpg
+2024-08-12 14:03:21,954 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140321.jpg
+2024-08-12 14:03:52,022 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140351.jpg
+2024-08-12 14:04:22,088 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140422.jpg
+2024-08-12 14:04:52,156 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140452.jpg
+2024-08-12 14:05:22,224 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140522.jpg
+2024-08-12 14:05:52,297 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140552.jpg
+2024-08-12 14:06:22,404 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140622.jpg
+2024-08-12 14:06:52,511 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140652.jpg
+2024-08-12 14:07:22,609 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140722.jpg
+2024-08-12 14:07:52,707 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140752.jpg
+2024-08-12 14:08:22,806 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140822.jpg
+2024-08-12 14:08:52,910 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140852.jpg
+2024-08-12 14:09:23,008 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140922.jpg
+2024-08-12 14:09:53,115 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_140953.jpg
+2024-08-12 14:10:23,212 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141023.jpg
+2024-08-12 14:10:53,318 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141053.jpg
+2024-08-12 14:11:23,420 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141123.jpg
+2024-08-12 14:11:53,487 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141153.jpg
+2024-08-12 14:12:23,555 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141223.jpg
+2024-08-12 14:12:53,628 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141253.jpg
+2024-08-12 14:13:23,707 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141323.jpg
+2024-08-12 14:13:53,775 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141353.jpg
+2024-08-12 14:14:23,845 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141423.jpg
+2024-08-12 14:14:53,911 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141453.jpg
+2024-08-12 14:15:23,978 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141523.jpg
+2024-08-12 14:15:54,050 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141554.jpg
+2024-08-12 14:16:24,132 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141624.jpg
+2024-08-12 14:16:54,199 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141654.jpg
+2024-08-12 14:17:24,271 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141724.jpg
+2024-08-12 14:17:54,351 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141754.jpg
+2024-08-12 14:18:24,418 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141824.jpg
+2024-08-12 14:18:54,485 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141854.jpg
+2024-08-12 14:19:24,557 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141924.jpg
+2024-08-12 14:19:54,644 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_141954.jpg
+2024-08-12 14:20:24,722 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142024.jpg
+2024-08-12 14:20:54,796 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142054.jpg
+2024-08-12 14:21:24,872 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142124.jpg
+2024-08-12 14:21:54,961 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142154.jpg
+2024-08-12 14:22:25,048 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142225.jpg
+2024-08-12 14:22:55,200 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142255.jpg
+2024-08-12 14:23:25,287 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142325.jpg
+2024-08-12 14:23:55,452 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142355.jpg
+2024-08-12 14:24:25,610 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142425.jpg
+2024-08-12 14:24:55,753 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142455.jpg
+2024-08-12 14:25:25,951 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142525.jpg
+2024-08-12 14:25:56,155 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142556.jpg
+2024-08-12 14:26:26,320 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142626.jpg
+2024-08-12 14:26:56,586 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142656.jpg
+2024-08-12 14:27:26,817 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142726.jpg
+2024-08-12 14:27:56,968 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142756.jpg
+2024-08-12 14:28:27,126 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142827.jpg
+2024-08-12 14:28:57,270 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142857.jpg
+2024-08-12 14:29:27,401 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142927.jpg
+2024-08-12 14:29:57,542 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_142957.jpg
+2024-08-12 14:30:27,676 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143027.jpg
+2024-08-12 14:30:57,810 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143057.jpg
+2024-08-12 14:31:27,939 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143127.jpg
+2024-08-12 14:31:58,151 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143158.jpg
+2024-08-12 14:32:28,306 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143228.jpg
+2024-08-12 14:32:58,441 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143258.jpg
+2024-08-12 14:33:28,581 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143328.jpg
+2024-08-12 14:33:58,729 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143358.jpg
+2024-08-12 14:34:28,858 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143428.jpg
+2024-08-12 14:34:59,001 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143458.jpg
+2024-08-12 14:35:29,159 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143529.jpg
+2024-08-12 14:35:59,376 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143559.jpg
+2024-08-12 14:36:29,547 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143629.jpg
+2024-08-12 14:36:59,690 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143659.jpg
+2024-08-12 14:37:29,843 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143729.jpg
+2024-08-12 14:37:59,988 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143759.jpg
+2024-08-12 14:38:30,130 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143830.jpg
+2024-08-12 14:39:00,293 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143900.jpg
+2024-08-12 14:39:30,443 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_143930.jpg
+2024-08-12 14:40:00,579 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144000.jpg
+2024-08-12 14:40:30,712 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144030.jpg
+2024-08-12 14:41:00,849 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144100.jpg
+2024-08-12 14:41:31,051 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144130.jpg
+2024-08-12 14:42:01,215 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144201.jpg
+2024-08-12 14:42:31,353 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144231.jpg
+2024-08-12 14:43:01,502 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144301.jpg
+2024-08-12 14:43:31,664 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144331.jpg
+2024-08-12 14:44:01,840 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144401.jpg
+2024-08-12 14:44:31,956 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144431.jpg
+2024-08-12 14:45:02,121 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144502.jpg
+2024-08-12 14:45:32,266 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144532.jpg
+2024-08-12 14:46:02,422 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144602.jpg
+2024-08-12 14:46:32,550 - __main__ - INFO - Captured active window and saved at C:/Users/KIIT/Documents/testing/screenshot_20240812_144632.jpg
+2024-08-12 14:46:44,883 - __main__ - INFO - Break time initiated.
+2024-08-12 16:14:28,140 - __main__ - INFO - Break time initiated.
+2024-08-12 16:15:20,711 - __main__ - ERROR - No save location selected.
+2024-08-12 18:16:11,112 - __main__ - DEBUG - Positive message sent.
+2024-08-12 18:17:12,309 - __main__ - INFO - Workday ended.
+2024-08-14 16:23:15,807 - __main__ - INFO - Logo loaded successfully.
+2024-08-14 16:23:15,823 - __main__ - INFO - UI created successfully.
+2024-08-21 17:11:14,796 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool created", "serverHost": "localhost", "serverPort": 27017}
+2024-08-21 17:11:15,007 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool ready", "serverHost": "localhost", "serverPort": 27017}
+2024-08-21 17:11:15,023 - __main__ - INFO - UI created successfully.
+2024-08-21 18:19:29,843 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool cleared", "serverHost": "localhost", "serverPort": 27017}
+2024-08-21 18:19:29,885 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool ready", "serverHost": "localhost", "serverPort": 27017}
+2024-08-21 21:34:43,809 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool cleared", "serverHost": "localhost", "serverPort": 27017}
+2024-08-21 21:34:43,829 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool ready", "serverHost": "localhost", "serverPort": 27017}
+2024-08-21 21:50:59,750 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool cleared", "serverHost": "localhost", "serverPort": 27017}
+2024-08-21 21:50:59,892 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool ready", "serverHost": "localhost", "serverPort": 27017}
+2024-08-21 22:04:44,751 - __main__ - INFO - Storage option selected: MongoDB
+2024-08-21 22:04:50,391 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:04:50,392 - __main__ - INFO - Started capturing screenshots.
+2024-08-21 22:05:20,394 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:05:50,397 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:06:20,399 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:06:50,402 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:07:20,403 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:07:50,405 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:08:20,406 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:08:50,408 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:09:20,410 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:09:50,411 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:10:20,413 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:10:50,415 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:11:20,416 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:11:50,418 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:12:20,419 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:12:50,421 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:13:20,423 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:13:50,425 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:14:20,427 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:14:50,429 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:15:20,430 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:15:50,432 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:16:20,433 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:16:50,435 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:17:20,437 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:17:50,438 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:18:20,440 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:18:50,441 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:19:20,443 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:19:50,446 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:20:20,448 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:20:50,450 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:21:20,451 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:21:50,453 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:22:20,455 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:22:50,456 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:23:20,458 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:23:50,459 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:24:20,460 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:24:50,462 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:25:20,464 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:25:50,465 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:26:20,467 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:26:50,469 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:27:20,471 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:27:50,473 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:28:20,478 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:28:50,479 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:29:20,482 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:29:50,483 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:30:20,485 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:30:50,487 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:31:20,488 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:31:50,490 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:32:20,492 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:32:50,494 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:51:05,593 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool cleared", "serverHost": "localhost", "serverPort": 27017}
+2024-08-21 22:51:05,598 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool ready", "serverHost": "localhost", "serverPort": 27017}
+2024-08-21 22:51:25,364 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:51:55,365 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:52:25,368 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:52:55,369 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:53:25,371 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:53:55,373 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:54:25,375 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:54:55,378 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:55:25,381 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:55:55,382 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:56:25,384 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:56:55,386 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:57:25,387 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 22:59:20,821 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool cleared", "serverHost": "localhost", "serverPort": 27017}
+2024-08-21 22:59:20,869 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool ready", "serverHost": "localhost", "serverPort": 27017}
+2024-08-21 22:59:36,957 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:00:06,958 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:00:36,960 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:01:06,962 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:01:36,965 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:02:06,968 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:02:36,970 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:03:06,972 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:03:36,974 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:04:06,976 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:04:36,978 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:05:06,979 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:05:36,982 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:06:06,985 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:06:36,986 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:07:06,988 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:07:36,990 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:08:06,992 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:08:36,994 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:09:06,996 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:09:36,997 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:10:07,000 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:10:37,003 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:11:07,005 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:11:37,007 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:12:07,009 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:12:37,011 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:13:07,013 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:13:37,016 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:14:07,017 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:14:37,019 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:15:07,021 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:15:37,023 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:16:07,027 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:16:37,029 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:17:07,031 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:17:37,032 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:18:07,034 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:18:37,036 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:19:07,038 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:19:37,040 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:20:07,042 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:20:37,044 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:21:07,048 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:21:37,049 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:22:07,052 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:22:37,054 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:23:07,057 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:23:37,059 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:24:07,060 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:24:37,063 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:25:07,066 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:25:37,067 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:26:07,069 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:26:37,071 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:27:07,072 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:27:37,075 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:28:07,078 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:28:37,080 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:29:07,086 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:29:37,090 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:30:07,092 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:30:37,093 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:31:07,096 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:31:37,097 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:32:07,099 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:32:37,100 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:33:07,102 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:33:37,104 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:34:07,106 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:34:37,108 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:35:07,110 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:35:37,111 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:36:07,113 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:36:37,115 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:37:07,116 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:37:37,118 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:38:07,120 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:38:37,122 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:39:07,124 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:39:37,126 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:40:07,128 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:40:37,130 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:41:07,132 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:41:37,134 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:42:07,135 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:42:37,137 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:43:07,138 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:43:37,140 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:44:07,141 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:44:37,145 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:45:07,148 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:45:37,154 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:46:07,156 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:46:37,158 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:47:07,161 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:47:37,163 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:48:07,165 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:48:37,167 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:49:07,169 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:49:37,175 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:50:07,178 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:50:37,180 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:51:07,182 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:51:37,183 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:52:07,185 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:52:37,191 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:53:07,194 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:53:37,195 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:54:07,198 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:54:37,200 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:55:07,202 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:55:37,204 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:56:07,206 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:56:37,207 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:57:07,209 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:57:37,210 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:58:07,212 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:58:37,214 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:59:07,216 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-21 23:59:37,217 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:00:07,220 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:00:37,222 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:01:07,224 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:01:37,225 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:02:07,227 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:02:37,229 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:03:07,230 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:03:37,232 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:04:07,234 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:04:37,236 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:05:07,237 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:05:37,239 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:06:07,241 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:06:37,243 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:07:07,245 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:07:37,247 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:08:07,249 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:08:37,251 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:09:07,253 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:09:37,255 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:10:07,257 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:10:37,259 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:11:07,260 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:11:37,262 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:12:07,264 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:12:37,266 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:13:07,268 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:13:37,270 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:14:07,272 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:14:37,274 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:15:07,275 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:15:37,277 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:16:07,279 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:16:37,281 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:17:07,283 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:17:37,284 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:18:07,286 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:18:37,288 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:19:07,290 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:19:37,292 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:20:07,294 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:20:37,296 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:21:07,298 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:21:37,300 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:22:07,301 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:22:37,303 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:23:07,305 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:23:37,306 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:24:07,308 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:24:37,310 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:25:07,312 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:25:37,314 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:26:07,316 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:26:37,318 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:27:07,320 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:27:37,321 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:28:07,323 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:28:37,325 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:55:59,657 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool cleared", "serverHost": "localhost", "serverPort": 27017}
+2024-08-22 00:55:59,831 - pymongo.connection - DEBUG - {"clientId": {"$oid": "66c5d25a4e1425fdebbdccbc"}, "message": "Connection pool ready", "serverHost": "localhost", "serverPort": 27017}
+2024-08-22 00:56:14,816 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:56:44,817 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:57:14,818 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:57:44,820 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:58:14,821 - __main__ - ERROR - Error capturing fullscreen: capture_fullscreen() missing 1 required positional argument: 'save_path'
+2024-08-22 00:58:44,829 - __main__ - DEBUG - Positive message sent.
+2024-08-22 00:58:48,520 - __main__ - INFO - Workday ended.
